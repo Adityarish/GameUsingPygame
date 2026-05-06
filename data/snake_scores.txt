@@ -1,0 +1,4 @@
+# Arcade Hub — Snake High Scores
+# Format: player|score|date|notes
+
+TestPlayer|1234|2026-05-06 10:08:11|

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "820b64e9-8d0d-4bf0-b204-ea4dc4be4c98",
+    "player_name": "Player1",
+    "game": "quiz",
+    "score": 1079,
+    "metadata": {
+      "category": "General Knowledge",
+      "difficulty": "Easy",
+      "correct": 6,
+      "time": 56
+    },
+    "played_at": "2026-05-06T04:31:18.370679+00:00",
+    "session_token": "6252766b7bf5e801"
+  }
+]

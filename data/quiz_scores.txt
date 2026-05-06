@@ -1,0 +1,5 @@
+# Arcade Hub — Quiz High Scores
+# Format: player|score|date|notes
+
+Alice|1500|2026-05-06 10:08:11|Tech
+scriptalert1script|200|2026-05-06 10:08:11|

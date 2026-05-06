@@ -1,0 +1,4 @@
+# Arcade Hub — Car High Scores
+# Format: player|score|date|notes
+
+P|500|2026-05-06 10:08:11|
